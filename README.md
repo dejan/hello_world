@@ -1,1 +1,4 @@
-# hello_world
+# Quickstart
+
+> "The secret of getting ahead is getting started."
+> ~ Mark Twain
