@@ -1,4 +1,4 @@
-# React (+ webpack + babel)
+# React
 
 Hello world in React with the little help from webpack and babel.
 

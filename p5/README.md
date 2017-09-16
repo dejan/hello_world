@@ -1,4 +1,4 @@
-# p5 (+ webpack + babel)
+# p5
 
 Hello world in p5 with the little help from webpack and babel.
 
