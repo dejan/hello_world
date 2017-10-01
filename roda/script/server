@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+bundle exec rerun --dir lib "bundle exec rackup"
