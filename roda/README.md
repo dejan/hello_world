@@ -14,7 +14,9 @@ HelloWorld in Roda with the little help from rspec, rack-test, rubocop.
 
     docker-compose up
 
-## Upgrade rubocop
+## Upgrade a gem
+
+Remember to build the image again when adding/upgrading gems.
 
     docker-compose run --rm bundle update rubocop
     docker-compose build web
