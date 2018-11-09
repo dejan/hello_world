@@ -1,4 +1,0 @@
-#!/bin/bash -ex
-
-bundle exec rubocop
-bundle exec rspec
