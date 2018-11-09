@@ -2,6 +2,10 @@
 
 HelloWorld in Roda with the little help from rspec, rack-test, rubocop.
 
+## Run the server
+
+    docker-compose up
+
 ## Run tests
 
     docker-compose run --rm web bundle exec rspec .
@@ -9,10 +13,6 @@ HelloWorld in Roda with the little help from rspec, rack-test, rubocop.
 ## Run rubocop
 
     docker-compose run --rm web bundle exec rubocop -a
-
-## Run the server
-
-    docker-compose up
 
 ## Upgrade a gem
 
