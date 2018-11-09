@@ -14,4 +14,3 @@ RUN bundle install
 
 EXPOSE 9292
 CMD ["rackup", "-o", "0.0.0.0"]
-
